@@ -1,7 +1,7 @@
 {
   "name": "volto-byline",
   "version": "1.0.0-alpha.0",
-  "description": "Volto block to display content Creator and Effective Date",
+  "description": "Volto block to display content Creator and Effective Date for a News Item",
   "main": "src/index.js",
   "license": "MIT",
   "keywords": [
