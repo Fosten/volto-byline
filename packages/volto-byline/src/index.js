@@ -7,11 +7,11 @@ const applyConfig = (config) => {
   config.blocks = {
     ...config.blocks,
     initialBlocks: {
+      ...config.blocks.initialBlocks,
       'News Item': ['title', 'description', 'byline', 'leadimage', 'slate'],
     },
     blocksConfig: {
       ...config.blocks.blocksConfig,
-      ...config.blocks.initialBlocks,
       ...customBlocks,
     },
   };
