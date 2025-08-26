@@ -13,7 +13,7 @@
 - Add Dependabot [fosten]
 - Add CHANGELOG.md [fosten]
 - Bump Node from 20 to 22 in workflows [fosten]
-- Bump Volto from 18.0.0-alpha.47 to 19.0.0-alpha.2 [fosten]
+- Bump Volto from 18.0.0-alpha.47 to 19.0.0-alpha.4 [fosten]
 - Move initialBlocks spread operator out of blocksConfig [fosten]
 - Add Byline block and Listing customizations [fosten]
 - Initial commit [fosten]
