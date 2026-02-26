@@ -8,8 +8,9 @@
 
 <!-- towncrier release notes start -->
 
-## Unreleased
+## [Unreleased]
 
+- Add footer links to CHANGELOG.md [fosten]
 - Add Dependabot [fosten]
 - Add CHANGELOG.md [fosten]
 - Bump Node from 20 to 22 in workflows [fosten]
@@ -17,3 +18,6 @@
 - Move initialBlocks spread operator out of blocksConfig [fosten]
 - Add Byline block and Listing customizations [fosten]
 - Initial commit [fosten]
+
+[Unreleased]: https://github.com/Fosten/volto-byline
+[fosten]: https://github.com/Fosten
