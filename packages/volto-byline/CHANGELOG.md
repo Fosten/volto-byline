@@ -10,7 +10,7 @@
 
 ## [Unreleased]
 
-
+- Replace babel-preset-razzle with @plone/babel-preset-razzle
 - Add footer links to CHANGELOG.md [fosten]
 - Add Dependabot [fosten]
 - Add CHANGELOG.md [fosten]
