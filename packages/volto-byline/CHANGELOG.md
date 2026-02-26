@@ -10,6 +10,7 @@
 
 ## [Unreleased]
 
+- Bump pnpm from 9.1.1 to 10.20.0 [fosten]
 - Replace babel-preset-razzle with @plone/babel-preset-razzle
 - Add footer links to CHANGELOG.md [fosten]
 - Add Dependabot [fosten]
