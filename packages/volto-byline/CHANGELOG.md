@@ -10,6 +10,7 @@
 
 ## [Unreleased]
 
+- Replace @plone/babel-preset-razzle/webpack-plugins with @plone/volto/webpack-plugins [fosten]
 - Add .pnpmfile.cjs [fosten]
 - Bump Node from 22 to 26 [fosten]
 - Bump pnpm from 9.1.1 to 10.20.0 [fosten]
