@@ -10,6 +10,7 @@
 
 ## [Unreleased]
 
+- Add .pnpmfile.cjs [fosten]
 - Bump Node from 22 to 26 [fosten]
 - Bump pnpm from 9.1.1 to 10.20.0 [fosten]
 - Replace babel-preset-razzle with @plone/babel-preset-razzle
